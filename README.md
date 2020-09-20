@@ -1,2 +1,1 @@
-# rsschool-cv
-first version of my cv
+https://your-github-account.github.io/rsschool-cv/cv
